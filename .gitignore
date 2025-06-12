@@ -1,0 +1,11 @@
+downloads/*
+!downloads/.gitkeep
+
+transcriptions/*
+!transcriptions/.gitkeep
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
